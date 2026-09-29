@@ -1,4 +1,4 @@
-# Wayne Enterprises Sustainability & CSR Impact 
+# Wayne Enterprises Sustainability & CSR Impact
 
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
 
