@@ -1,8 +1,7 @@
 # Wayne Enterprises | Business Intelligence Suite (Power BI)  
 **by Soham S. Amburle**
  
-Start Date: 10 April, 2026 
-End Date: 22 August, 2026
+Start Date: 10 April, 2026 | End Date: 22 August, 2026
 
 ## Project Overview 
 
