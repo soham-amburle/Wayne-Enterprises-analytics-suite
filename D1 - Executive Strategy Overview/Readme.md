@@ -3,7 +3,7 @@
 **Organization:** Wayne Enterprises (Fictional Enterprise Business Model)
 
 **Tool:** Power BI
-
+ 
 **Dataset:** Synthetic Enterprise Business Intelligence Dataset – ~100,000 Records
 
 **Dashboard Focus:** Enterprise Performance, Financial Health, Investment Effectiveness, Innovation, Operations, Workforce, Commercial Performance, Risk & Security
